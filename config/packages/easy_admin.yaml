@@ -1,0 +1,15 @@
+easy_admin:
+    entities:
+        - class: App\Entity\Team
+          name: 'Team'
+          label: 'Équipes'
+
+        - class: App\Entity\Coach
+          name: 'Coach'
+          label: 'Coaches'
+
+        - class: App\Entity\User
+          name: 'User'
+          label: 'Users'
+
+        
